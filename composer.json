@@ -1,0 +1,23 @@
+{
+    "name": "nixar59/db",
+    "type": "yii2-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nixar",
+            "email": "bushmakin59@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "yiisoft/yii2": "^2"
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {
+            "nixar59\\db\\": ""
+        }
+    }
+}
